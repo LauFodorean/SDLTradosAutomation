@@ -1,0 +1,17 @@
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\SDLTradosTS.exe.config
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\SDLTradosTS.exe
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\SDLTradosTS.pdb
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\Castle.Core.dll
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\nunit.framework.dll
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\TechTalk.SpecFlow.dll
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\TestStack.White.dll
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\Castle.Core.xml
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\nunit.framework.xml
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\TestStack.White.pdb
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\bin\Debug\TestStack.White.xml
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\obj\Debug\SDLTradosTS.exe
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\obj\Debug\SDLTradosTS.pdb
+D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\obj\Debug\SDLTradosTS.csprojResolveAssemblyReference.cache
+D:\TAS\Juniormind\Automation\SDLTradosTS\SDLTradosTS\bin\Debug\SDLTradosTS.exe.config
+D:\TAS\Juniormind\Automation\SDLTradosTS\SDLTradosTS\obj\Debug\SDLTradosTS.exe
+D:\TAS\Juniormind\Automation\SDLTradosTS\SDLTradosTS\obj\Debug\SDLTradosTS.pdb
