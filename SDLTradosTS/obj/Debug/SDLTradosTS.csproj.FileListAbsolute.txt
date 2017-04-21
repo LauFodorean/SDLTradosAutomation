@@ -15,3 +15,6 @@ D:\TAS\Juniormind\Github\SDLTradosTS\SDLTradosTS\obj\Debug\SDLTradosTS.csprojRes
 D:\TAS\Juniormind\Automation\SDLTradosTS\SDLTradosTS\bin\Debug\SDLTradosTS.exe.config
 D:\TAS\Juniormind\Automation\SDLTradosTS\SDLTradosTS\obj\Debug\SDLTradosTS.exe
 D:\TAS\Juniormind\Automation\SDLTradosTS\SDLTradosTS\obj\Debug\SDLTradosTS.pdb
+D:\TAS\Juniormind\Automation\SDLTradosAutomation\SDLTradosTS\bin\Debug\SDLTradosTS.exe.config
+D:\TAS\Juniormind\Automation\SDLTradosAutomation\SDLTradosTS\obj\Debug\SDLTradosTS.exe
+D:\TAS\Juniormind\Automation\SDLTradosAutomation\SDLTradosTS\obj\Debug\SDLTradosTS.pdb
